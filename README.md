@@ -7,7 +7,7 @@ blacksheepwall是一款由Go语言编写的域名信息搜集工具 ，你也可
 
 ## 下载
 
-blacksheepwall支持跨平台，目前它所支持的系统有windows、linux以及苹果的darwin。你可以在这里下载到不同版本的二进制软件包。
+blacksheepwall支持跨平台，目前它所支持的系统有windows、linux以及苹果的darwin。你可以在[这里下载](https://github.com/tomsteele/blacksheepwall/releases/tag/v3.3.0)到不同版本的二进制软件包。
 
 ## 安装
 
